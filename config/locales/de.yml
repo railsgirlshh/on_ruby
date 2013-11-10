@@ -33,7 +33,7 @@ de:
     imprint: "Impressum"
     contact: "Kontakt"
     links: "Links"
-    other_usergroups: "Weitere Usergroups"
+    other_usergroups: "Weitere Rails Girls in Deutschland"
     ruby_usergroups: "Weitere Ruby Gruppen"
   show:
     hosted_by: "gehostet durch"
@@ -53,7 +53,7 @@ de:
     add_topic: "Eigenes Thema eintragen"
     new_topics: "Themenvorschläge"
     old_topics: "Kürzlich vorgestellte Themen"
-    company_workers: "Viele der Teilnehmer an der Ruby Usergroup arbeiten auch dort und wir freuen uns immer über neue Gesichter."
+    company_workers: "Viele der Rails Girls Teilnehmer arbeiten auch dort und wir freuen uns immer über neue Gesichter."
     company_missing: "Solltest du eine Firma vermissen, dann schicke uns einfach eine %{email_link} oder Direct-Message an %{twitter_link}"
     next_possible_meetup_recurring: "Derzeit ist noch kein Termin festgelegt, die Rails Girls treffen sich aber %{recurring}."
     next_possible_meetup: "Unser nächste Treffen findet voraussichtlich am %{event_date} statt."
