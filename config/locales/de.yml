@@ -49,6 +49,7 @@ de:
     like_to_talk: "Möchtest du einen Vortrag beim nächsten Rails Girls Treffen halten oder hast du zusätzliche Themenvorschläge?"
     send_us_an_email: "Dann schicke uns einfach eine %{mail_to} oder spreche uns persönlich an:"
     engage: "Die Rails Girls leben, wie eigentlich alle Usergroups, von Vorträgen und dem Engagement ihrer Teilnehmer. Wenn du ein Thema vermisst, oder nähere Informationen zu speziellen Bereichen suchst, dann kannst du hier gerne <strong>etwas in die Wunschliste eintragen</strong>. Solltest du schon eine Idee zu einem Vortrag oder ähnlichem haben, dann kannst du ihn ebenfalls <strong>hier eintragen</strong>, um Feedback von der Rails Girls Community zu bekommen."
+    login_needed: "(Du musst hierfür eingeloggt sein)"
     add_topic: "Eigenes Thema eintragen"
     new_topics: "Themenvorschläge"
     old_topics: "Kürzlich vorgestellte Themen"
